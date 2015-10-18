@@ -1,6 +1,6 @@
 # README #
 
-Problems Solved During Practice for 40th ACM ICPC - 17th Asian Regional Contest in Iran. (2015)
+Problems Solved During Practice for 40th ACM ICPC * 17th Asian Regional Contest in Iran. (2015)
 
 ## Todo #0:
 * Network flow & Variants & Bipartite Matching & Edmond
@@ -14,6 +14,14 @@ Problems Solved During Practice for 40th ACM ICPC - 17th Asian Regional Contest 
 * Kolan DAG
 * KMP 
 * Basic Geometry
+* Ad Hoc
+	* Mathematical Simulation
+	* Grid
+	* Logarithm, Exponentiation, Power
+	* Polynomial
+	* Base Number Variants
+* Java BigInteger Class
+
 
 ## Todo #2:
 * Inversion and Fenwick Tree.
@@ -25,3 +33,5 @@ Problems Solved During Practice for 40th ACM ICPC - 17th Asian Regional Contest 
 * Suffix Array
 * Convex Hull
 * Rotating Calipers
+
+## Todo #3
