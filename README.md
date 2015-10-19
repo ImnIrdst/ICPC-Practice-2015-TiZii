@@ -14,12 +14,8 @@ Problems Solved During Practice for 40th ACM ICPC * 17th Asian Regional Contest 
 * Kolan DAG
 * KMP 
 * Basic Geometry
-* Ad Hoc
-	* Mathematical Simulation
-	* Grid
-	* Logarithm, Exponentiation, Power
+* Math Ad Hoc
 	* Polynomial
-	* Base Number Variants
 * Java BigInteger Class
 
 
@@ -35,3 +31,4 @@ Problems Solved During Practice for 40th ACM ICPC * 17th Asian Regional Contest 
 * Rotating Calipers
 
 ## Todo #3
+* Math
