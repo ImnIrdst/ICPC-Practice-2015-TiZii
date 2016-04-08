@@ -1,0 +1,93 @@
+37th ACM International Collegiate Programming Contest
+14th Asian Regional Contest in Iran, 20–21 December, 2012
+    IUT #1              22          4
+    Devil May Code      56          2
+
+===========================================================
+11th Iran Internet ACM ICPC 2013
+    <!+AAA_TiZi+!>      114         2
+    Devil May Code      35          4
+    Zenjirkesha         141         2
+
+===========================================================
+38th ACM International Collegiate Programming Contest
+15th Asian Regional Contest in Iran, 19–20 December, 2013
+    Devil May Code      14          3
+    <!+AAA_TiZi+!>      48          1
+    Zenjirkesha         oo           0
+===========================================================
+12th Iran Internet ACM ICPC 2014 - I
+    Dokhaniat           18          7
+    Team 47             28          7
+    TRIO                48          6
+    Out of Control      49          6
+    TiZii Bye Bye       75          5
+
+===========================================================
+12th Iran Internet ACM ICPC 2014 - II
+    Team 47             22          5
+    TRIO                43          4
+    TiZii Bye Bye       51          4
+
+===========================================================
+12th Iran Internet ACM ICPC 2014 - III
+    Team 47             44          1
+    TRIO                50          1
+    Out of Control      27          2
+    TiZii Bye Bye       26          2
+
+===========================================================
+12th Iran Internet ACM ICPC 2014 - IV
+    Dokhaniat           18          7
+    Team 47             20          3
+    TRIO                50          1
+    Out of Control      27          2
+    TiZii Bye Bye       26          2
+
+===========================================================
+12th Iran Internet ACM ICPC 2014 - AUT
+    Team 47             21          3
+    TRIO                22          3
+    Out of Control      24          3
+    TiZii               30          3
+
+===========================================================
+12th Iran Internet ACM ICPC 2014 - Final
+    Dokhaniat           20          3
+    Team 47             55          2
+    TRIO                77          1
+    Out of Control      43          2
+    TiZii               115         1
+
+===========================================================
+39th ACM International Collegiate Programming Contest
+16th Asian Regional Contest in Iran, 18–19 December, 2014
+    Dokhaniat           21          6
+    Team 47             26          6
+    TRIO                45          4
+    Out of Control      44          4
+    TiZii               34          5
+
+===========================================================
+13th Iran Internet ACM ICPC 2015 - Shiraz
+    Team 47             10          3
+    TRIO                19          2
+    TiZii               13          2
+
+===========================================================
+13th Iran Internet ACM ICPC 2015 - UT
+    Team 47             23          2
+    TRIO                11          3
+    TiZii               21          2
+
+===========================================================
+13th Iran Internet ACM ICPC 2015 - AUT
+    Team 47             8           3
+    TRIO                9           3
+    TiZii               4 (5) (6)   4, 11 (5) (3)
+
+===========================================================
+13th Iran Internet ACM ICPC 2015 - Sharif Final
+    Team 47             17          7
+    TRIO                47          5
+    TiZii               9           8

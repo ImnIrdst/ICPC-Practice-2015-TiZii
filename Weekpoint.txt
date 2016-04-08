@@ -1,5 +1,0 @@
-- Some Kind of Grid
-	- UVa 320 - Border
-	- UVa 1202 - Finding Nemo
-	- Tehran Site 2013 J
-
